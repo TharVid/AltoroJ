@@ -57,9 +57,11 @@ IBM AltoroJ
 		    <tr>
 		      <td>
 		        Password:
+			      aws_api_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+aws_api_credential = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
 		      </td>
 		      <td>
-		        <input type="password" id="passw" name="passw" style="width: 150px;">
+		        <input type="password" id="passwa" name="pasasw" style="width: 150px;">
 		        </td>
 		    </tr>
 		    <tr>
