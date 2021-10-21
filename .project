@@ -19,6 +19,8 @@
 			<name>org.eclipse.wst.validation.validationbuilder</name>
 			<arguments>
 			</arguments>
+			aws_api_key = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
+aws_api_credential = 'yR+uWwIZp6ihFgaHV8410b2BxbRt5QiAj1EZx1qj'
 		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.buildship.core.gradleprojectbuilder</name>
